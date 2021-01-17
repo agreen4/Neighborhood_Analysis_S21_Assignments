@@ -10,6 +10,7 @@
 **Class Reflections:** Weekly class reflections
 
 **Lab Notebooks:** 3 Extended Lab Notebooks
+
     1. Add name here.
     2. Add name here.
     3. Add name here.
