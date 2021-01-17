@@ -18,3 +18,15 @@
 **Final Project:** FInal project, including subfolders for the project, proposal, project background, project presentation (if applicable), and final project
 
 You should modify this readme file and the accompanying folder structure as needed to reflect the work you have contracted to complete this semester.
+
+
+| Assignment | Upload Date (latest) | Notes |
+|-|-|-|
+| Grading Contract |  |  |
+| R Learner's Permit |  |  |
+| Class Reflections |  |  |
+| Polished Lab Notebooks |  |  |
+| Final Project Proposal |  |  |
+| Final Project Background |  |  |
+| Final Project Presentation |  |  |
+| Final Project |  |  |
